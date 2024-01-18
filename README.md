@@ -1,4 +1,4 @@
-# DELHI METRO RAIL APP
+# DMR-APP
 
 Please don't get confused, this is NOT an ANDROID Application!
 
